@@ -1,0 +1,30 @@
+img{
+    width: 20%;
+}
+
+.all-style{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img-style{
+    text-align: center;
+}
+
+.text{
+    border-style: solid;
+    padding: 5px;
+    border-width: 0.8px;
+    background-color: bisque;
+    border-color: rgb(70, 125, 77);
+    margin-top: 40px;
+}
+
+body{
+    background-color: aqua;
+}
+
+.text-2{
+    font-size: 24px;
+}

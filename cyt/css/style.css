@@ -1,0 +1,27 @@
+.all{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    font-size: 30px;
+}
+
+img{
+    width: 30%;
+}
+
+.style-img{
+    text-align: center;
+}
+
+.style-button{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+body{
+    margin: 0;
+    background-color: aqua;
+}
